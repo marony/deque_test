@@ -1,4 +1,4 @@
-# C#の`List<T>`とQueue<T>の速度比較
+# C#の`List<T>`と`Queue<T>`の速度比較
 
 ## 説明
 
